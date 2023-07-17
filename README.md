@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kishore G
+- 👋 Hi, I’m kishore
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently working as a DevOps engineer
 - 💞️ I’m looking to collaborate with like-minded professionals
